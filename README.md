@@ -1,3 +1,3 @@
 # Simple-pos-
 This is My Simple Minicapstone POS That you can Order products and Show Total of Orders also print the receipt automatically....
-<h1 style="background-color:yellow;">Java NetBeans</h1>
+<h1 style="color:yellow;">Java NetBeans</h1>
